@@ -19,7 +19,9 @@ We applied a web-scraping algorithm to gather settlement profiles from the KYC w
 
 ## Provided data and files
 **kyc_settlement_population_extract:** The python script used to scrape data from the KYC Campaign website.
+
 **ori_...:** Original downloaded settlement boundaries and population counts formatted as a shapefile by city.
+
 **cln_...:** Cleaned settlement boundaries and population counts formatted as a shapefile by city.
 
 ## Recommended citation
