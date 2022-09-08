@@ -1,4 +1,4 @@
-#  KnowYourCity data by SDI for research
+#  KnowYourCity data for research
 
 ## Background
 90% of population growth in the next 25 years will be in African and Asian cities, and most people will be added in deprived “slum” areas. Due to informality, dynamism, and insecurity, data on “slums” and their residents are incomplete and dispersed, at best. Many “slums” are simply missing from official (e.g., census, survey) and other widely used datasets (e.g., OSM). Satellite imagery is often used to fill this data gap with “slums” being identified as clusters of small disorganized buildings and other morphologies of informality. Who generates these data, however, matters because deprivation manifests in myriad of ways within and between cities. Whether training AI models, evaluating the accuracy of modelled data sets, identifying areas at risk of hazards, etcetera, data about “slums” by residents themselves reflect important contextual variations. We process the KnowYourCity (KYC) Campaign dataset by Slum Dwellers International (SDI) to encourage its use for research.
@@ -25,4 +25,4 @@ We applied a web-scraping algorithm to gather settlement profiles from the KYC w
 **cln_...:** Cleaned settlement boundaries and population counts formatted as a shapefile by city.
 
 ## Recommended citation
-Slum Dweller International Profiling Teams. 2022. Know Your City Campaign data for research. Processed by Dana R. Thomson and Hazem Mahmoud. Availalbe at:
+Slum Dwellers International Profiling Teams. 2022. KnowYourCity data for research. Processed by Dana R. Thomson and Hazem Mahmoud. Availalbe at: https://github.com/hazemmahmoud88/Evaluating-the-Accuracy-of-Gridded-Population-Estimates-in-Slums.
