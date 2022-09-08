@@ -25,4 +25,4 @@ We applied a web-scraping algorithm to gather settlement profiles from the KYC w
 **cln_...:** Cleaned settlement boundaries and population counts formatted as a shapefile by city.
 
 ## Recommended citation
-Slum Dwellers International Profiling Teams. 2022. KnowYourCity data for research. Processed by Dana R. Thomson and Hazem Mahmoud. Availalbe at: https://github.com/hazemmahmoud88/Evaluating-the-Accuracy-of-Gridded-Population-Estimates-in-Slums.
+Slum Dwellers International Profiling Teams. 2022. KnowYourCity data for research. Data processed by Dana R. Thomson and Hazem Mahmoud. Availalbe at: https://github.com/hazemmahmoud88/KnowYourCity-data-for-research.
